@@ -1,0 +1,8 @@
+PROJECT_NAME           = "LAF"
+PROJECT_BRIEF          = "Legacy Analysis Framework"
+PROJECT_LOGO           = static/logo.png
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = docs
+WARN_IF_UNDOCUMENTED   = NO
+USE_MDFILE_AS_MAINPAGE = README.md
+INPUT                  = README.md LAF.py

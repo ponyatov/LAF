@@ -1,0 +1,3 @@
+SECRET = "uRBcFJWoxUR5RCwbpbPj7FxiDaac3DNdrh"
+HOST   = "127.0.0.1"
+PORT   = 50772

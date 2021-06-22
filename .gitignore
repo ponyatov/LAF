@@ -1,0 +1,17 @@
+*~
+*.swp
+*.log
+
+/docs/
+
+# \ python
+/bin/
+/lib/
+/lib64
+/share/
+/pyvenv.cfg
+__pycache__/
+*.pyc
+# / python
+
+!.gitignore
